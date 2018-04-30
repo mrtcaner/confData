@@ -9,15 +9,14 @@ surnames: X, Y, Z
 ---
 spring:
   profiles: dev
-names: Aly, Saul, Herman
+names: Aly, Saul, Herman1
   
 ---
 spring:
   profiles: test
-names: Jack, James, Jeremy
+names: Jack, James, Jeremy1
 
 ---
 spring:
   profiles: prod
-names: Doc, Marty, Einstein
-
+names: Doc, Marty, Einstein1
